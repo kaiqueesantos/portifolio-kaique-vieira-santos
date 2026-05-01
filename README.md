@@ -61,4 +61,4 @@ Abaixo, a organização deste repositório para facilitar a navegação:
  
 - `/Algoritimo de Auditoria de Dados/`: | [Ver Projeto](./vendas-e-segurança/vendas_e_segurança.py/) | | [Ver RADME](./vendas-e-segurança/RADME.md/) |
 
-- `/Engenharia de Contexto e Lógica Física/`: | [Ver Projeto](./conceitos-de-lista/conceitos_de_lista.py/) | | [Ver RADME](./vendas-e-segurança/RADME.md/) |
+- `/Engenharia de Contexto e Lógica Física/`: | [Ver Projeto](./conceitos-de-lista/conceitos_de_lista.py/) | | [Ver RADME](./conceitos-de-lista/RADME.md/) |
