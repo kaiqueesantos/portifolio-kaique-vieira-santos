@@ -44,7 +44,7 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Traduzindo Lógica para Python** | Funções | [Ver Projeto](./vendas-e-segurança/vendas_e_segurança.py/) |
+| **Traduzindo Lógica para Python** | Funções | [Ver Projeto](./funçoes/funçoes.py/) |
  
  
 ---
