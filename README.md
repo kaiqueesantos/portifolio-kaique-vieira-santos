@@ -41,6 +41,10 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritimo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./vendas-e-segurança/vendas_e_segurança.py/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Traduzindo Lógica para Python** | Funções | [Ver Projeto](./vendas-e-segurança/vendas_e_segurança.py/) |
  
  
 ---
