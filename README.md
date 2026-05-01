@@ -48,7 +48,7 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
 
  | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Criadoe de emojis** |  Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.| [Ver Projeto](./funçoes/funçoes.py/) |
+| **Criador de emojis** |  Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.| [Ver Projeto](./criador-de-emojis/criador_de_emojis.py/) |
 
  | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
