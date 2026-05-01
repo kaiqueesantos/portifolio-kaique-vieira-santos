@@ -44,7 +44,7 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Traduzindo Lógica para Python** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.| [Ver Projeto](./conceitos-de-lista/conceitos_de_lista.py/) |
+| **Engenharia de Contexto e Lógica Física** | Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.| [Ver Projeto](./conceitos-de-lista/conceitos_de_lista.py/) |
 
  | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
