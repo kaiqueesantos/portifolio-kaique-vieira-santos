@@ -65,4 +65,4 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 
 - `/Criador de emojis/`: | [Ver Projeto](./criador-de-emojis/criador_de_emojis.py/) | | [Ver RADME](./criador-de-emojis/RADME.md/) |
 
-- `/Traduzindo Lógica para Python/`: | [Ver Projeto](./funçoes/funçoes.py/) | | [Ver RADME](./criador-de-emojis/RADME.md/) |
+- `/Traduzindo Lógica para Python/`: | [Ver Projeto](./funçoes/funçoes.py/) | | [Ver RADME](./funçoes/RADME.md/) |
