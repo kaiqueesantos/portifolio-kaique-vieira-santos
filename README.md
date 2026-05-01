@@ -10,8 +10,8 @@
  
 ---
  
-### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Ciência da computação  na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Full-stack.
+### 👨‍💻 Sobre mim
+Atualmente cursando o 1º período de Ciência da computação  na Universidade Cidade de São Paulo (UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Full-stack.
  
  **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 
