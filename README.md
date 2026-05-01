@@ -63,4 +63,6 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 
 - `/Engenharia de Contexto e Lógica Física/`: | [Ver Projeto](./conceitos-de-lista/conceitos_de_lista.py/) | | [Ver RADME](./conceitos-de-lista/RADME.md/) |
 
-- `/Criador de emojis/`: | [Ver Projeto](./criador-de-emojis/criador_de_emojis.py/) | | [Ver RADME](.//) |
+- `/Criador de emojis/`: | [Ver Projeto](./criador-de-emojis/criador_de_emojis.py/) | | [Ver RADME](./criador-de-emojis/RADME.md/) |
+
+- `/Traduzindo Lógica para Python/`: | [Ver Projeto](./funçoes/funçoes.py/) | | [Ver RADME](./criador-de-emojis/RADME.md/) |
