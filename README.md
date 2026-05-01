@@ -59,4 +59,4 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-- `/Algoritimo de Auditoria de Dados/`: | [Ver Projeto](./vendas-e-segurança/vendas_e_segurança.py/) | | [Ver RADME](./vendas-e-segurança/vendas_e_segurança.py/) |
+- `/Algoritimo de Auditoria de Dados/`: | [Ver Projeto](./vendas-e-segurança/vendas_e_segurança.py/) | | [Ver RADME](./vendas-e-segurança/RADME.md/) |
