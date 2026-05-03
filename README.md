@@ -40,11 +40,11 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
 #### 🗃️ Programação de computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritimo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./engenharia-de-soluções-logicas/) |
+| **Algoritimo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./vendas-e-segurança/vendas_e_segurança.py/) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** |Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./vendas-e-segurança/vendas_e_segurança.py/) |
+| **Engenharia de Soluções Lógicas** |Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](.//) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
