@@ -44,7 +44,7 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** |Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](.//) |
+| **Engenharia de Soluções Lógicas** |Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./engenharia-de-soluções-logicas/) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
