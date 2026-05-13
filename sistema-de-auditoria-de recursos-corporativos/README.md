@@ -1,48 +1,49 @@
-# Sistema de Auditoria de Recursos Corporativos 🏦🔍
-
-Este projeto consiste em uma ferramenta robusta para análise orçamentária e auditoria de processos em estruturas empresariais hierárquicas. O sistema utiliza técnicas avançadas de programação funcional para percorrer departamentos, calcular custos e realizar conversões monetárias em tempo real.
-
-## 🚀 Funcionalidades Principais
-
-* **Cálculo Hierárquico Recursivo:** O sistema percorre uma estrutura de dados aninhada (dicionários dentro de dicionários) para somar orçamentos de subdepartamentos de forma automática.
-* **Auditoria via Decorators:** Utiliza o padrão de projeto *Decorator* para monitorar a execução de funções, registrando o tempo de processamento, parâmetros utilizados e metadados da auditoria.
-* **Filtros Dinâmicos (*Args):** Permite ignorar departamentos específicos durante o cálculo (ex: gerar um relatório excluindo os custos de "TI" ou "RH").
-* **Conversão de Moeda (*Kwargs):** Suporte flexível para conversão de valores (BRL para USD, EUR, etc.) através de parâmetros nomeados dinâmicos.
-
+## 📖 Sobre o Projeto
+Este projeto foi desenvolvido como parte da disciplina de [Programação de computadores] do curso de [Ciência da computação]. O objetivo do script é processar e calcular o orçamento de uma estrutura organizacional complexa (dicionários aninhados) de uma multinacional, aplicando regras de negócio dinâmicas e auditoria de execução.
+ 
+A solução foi arquitetada utilizando conceitos avançados de Python para garantir flexibilidade, performance e rastreabilidade.
+ 
+## 🚀 Funcionalidades
+- **Cálculo Hierárquico:** Varredura completa da estrutura corporativa, independentemente do nível de profundidade.
+- **Filtros Dinâmicos:** Capacidade de ignorar setores específicos e todos os seus subsetores na hora do cálculo financeiro.
+- **Conversão de Câmbio:** Suporte a parâmetros opcionais para conversão de moedas em tempo de execução.
+- **Sistema de Auditoria:** Monitoramento automatizado de tempo de execução e registro (logging) dos parâmetros utilizados na transação financeira.
+ 
 ## 🛠️ Tecnologias e Conceitos Aplicados
-
-* **Linguagem:** Python 3.
-* **Decoradores (@auditor):** Para separação de preocupações (*logging* e monitoramento).
-* **Recursividade:** Algoritmo de soma que se adapta à profundidade da estrutura da empresa.
-* **Argumentos Arbitrários:** Uso de `*args` para listas de exclusão e `**kwargs` para configurações de câmbio.
-* **Biblioteca `time`:** Para medição de performance e eficiência do código.
-
-## 📊 Estrutura de Exemplo
-
-O sistema processa uma matriz organizacional detalhada, como no exemplo abaixo:
-* **TI:** Infraestrutura (Servidores, Segurança) e Desenvolvimento (Frontend, Backend, DevOps).
-* **RH:** Recrutamento, Treinamento e Cultura (Eventos, Brindes).
-* **Financeiro:** Gestão direta de ativos.
-
-## ⚙️ Como Utilizar
-
-1.  **Execução do Script:**
-    ```bash
-    python sistema_de_auditoria_de_recursos_corporativos.py
-    ```
-
-2.  **Exemplos de Chamadas no Código:**
-    * *Cálculo Total:* `calcular_orcamento(empresa_data)`
-    * *Excluindo Departamentos:* `calcular_orcamento(empresa_data, "TI")`
-    * *Conversão Internacional:* `calcular_orcamento(empresa_data, moeda_destino="USD", taxa_cambio=0.19)`
-
-## 📝 Exemplo de Saída da Auditoria
-
-```text
-========== INICIO DA AUDITORIA ==========
-Funcao chamada: calcular_orcamento
-Departamentos ignorados: ('RH',)
-Parametros de conversao: {'moeda_destino': 'EUR', 'taxa_cambio': 0.17}
-...
-Tempo de execucao: 0.00002 segundos
-=========================================
+Este projeto foi construído utilizando Python puro (Standard Library), com foco nos seguintes paradigmas e recursos:
+* **Funções Recursivas (Recursion):** Utilizadas para a navegação na árvore de dados (dicionários aninhados).
+* **Decorators:** Implementação do `@auditor` para injetar comportamentos de log e cronometragem sem modificar a lógica de negócios.
+* **Empacotamento de Argumentos (`*args` e `**kwargs`):** Utilizados tanto no decorator quanto na função principal para permitir a passagem dinâmica de departamentos a serem ignorados e taxas de câmbio.
+ 
+## ⚙️ Como Executar
+ 
+### Pré-requisitos
+* Python 3.8 ou superior instalado.
+ 
+### Passo a Passo
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/SeuUsuario/seu-repositorio.git](https://github.com/SeuUsuario/seu-repositorio.git)
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd seu-repositorio
+   ```
+3. Execute o script principal:
+   ```bash
+   python main.py
+   ```
+ 
+## 🧠 Lógica e Estrutura do Código
+Breve explicação de como o código foi organizado:
+* `[A lógica central foi baseada em uma função de soma recursiva que verifica o tipo de dado de cada entrada. Se o sistema encontra um dicionário, ele "mergulha" um nível a mais; se encontra um número, ele o soma ao total, a menos que o nome do departamento esteja na lista de exclusão passada via argumentos. O Decorator envolve essa função, capturando o tempo inicial e final através da biblioteca para gerar um relatório de performance a cada chamada.]`.
+* **Dados:** Os dados simulados da empresa foram estruturados em... `[Os dados da empresa foram estruturados em um dicionário multinível (Matriz > Departamentos > Subdepartamentos), permitindo simular uma hierarquia corporativa real onde orçamentos estão espalhados em diferentes profundidades da estrutura.]`.
+ 
+## 👤 Autor
+ 
+* **[Kaique Vieira Santos]**
+* ** LinkedIn: [https://www.linkedin.com/in/kaique-santos-ab70283b5/]
+* E-mail: [kaique207b@gmail.com]
+ 
+---
+*Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
