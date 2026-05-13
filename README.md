@@ -57,6 +57,10 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
  | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Traduzindo Lógica para Python** | Funções | [Ver Projeto](./funçoes/funçoes.py/) |
+
+  | Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Sistema de Auditoria de Recursos Corporativos** | Criar um script em Python que calcule o orçamento total da empresa, mas com regras estritas de auditoria e flexibilidade de parâmetros. | [Ver Projeto](./funçoes/funçoes.py/) |
  
 ---
  
