@@ -1,5 +1,5 @@
 ## 📖 Sobre o Projeto
-Este projeto foi desenvolvido como parte da disciplina de [Programação de computadores] do curso de [Ciência da computação]. O objetivo do script é processar e calcular o orçamento de uma estrutura organizacional complexa (dicionários aninhados) de uma multinacional, aplicando regras de negócio dinâmicas e auditoria de execução.
+Este projeto foi desenvolvido como parte da disciplina de Programação de computadores do curso de Ciência da computação. O objetivo do script é processar e calcular o orçamento de uma estrutura organizacional complexa (dicionários aninhados) de uma multinacional, aplicando regras de negócio dinâmicas e auditoria de execução.
  
 A solução foi arquitetada utilizando conceitos avançados de Python para garantir flexibilidade, performance e rastreabilidade.
  
