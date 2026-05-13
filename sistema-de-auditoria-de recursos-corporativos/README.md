@@ -23,26 +23,27 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SeuUsuario/seu-repositorio.git](https://github.com/SeuUsuario/seu-repositorio.git)
+   git clone https://github.com/kaiqueesantos/portfolio-kaique-vieira-santos
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd seu-repositorio
+   cd sistema-de-auditoria-de recursos-corporativos
    ```
 3. Execute o script principal:
    ```bash
-   python main.py
+   python sistema_de_auditoria_de_recursos_corporativos.py
    ```
  
 ## 🧠 Lógica e Estrutura do Código
 Breve explicação de como o código foi organizado:
-* `[A lógica central foi baseada em uma função de soma recursiva que verifica o tipo de dado de cada entrada. Se o sistema encontra um dicionário, ele "mergulha" um nível a mais; se encontra um número, ele o soma ao total, a menos que o nome do departamento esteja na lista de exclusão passada via argumentos. O Decorator envolve essa função, capturando o tempo inicial e final através da biblioteca para gerar um relatório de performance a cada chamada.]`.
-* **Dados:** Os dados simulados da empresa foram estruturados em... `[Os dados da empresa foram estruturados em um dicionário multinível (Matriz > Departamentos > Subdepartamentos), permitindo simular uma hierarquia corporativa real onde orçamentos estão espalhados em diferentes profundidades da estrutura.]`.
+* A lógica central foi baseada em uma função de soma recursiva que verifica o tipo de dado de cada entrada. Se o sistema encontra um dicionário, ele "mergulha" um nível a mais; se encontra um número, ele o soma ao total, a menos que o nome do departamento esteja na lista de exclusão passada via argumentos. O Decorator envolve essa função, capturando o tempo inicial e final através da biblioteca para gerar um relatório de performance a cada chamada.
+ 
+* **Dados:** Os dados da empresa foram estruturados em um dicionário multinível (Matriz > Departamentos > Subdepartamentos), permitindo simular uma hierarquia corporativa real onde orçamentos estão espalhados em diferentes profundidades da estrutura.
  
 ## 👤 Autor
  
 * **[Kaique Vieira Santos]**
-* ** LinkedIn: [https://www.linkedin.com/in/kaique-santos-ab70283b5/]
+* LinkedIn: [https://www.linkedin.com/in/kaique-santos-ab70283b5/]
 * E-mail: [kaique207b@gmail.com]
  
 ---
