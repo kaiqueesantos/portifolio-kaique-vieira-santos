@@ -30,22 +30,6 @@ O script está dividido em três pilares principais de processamento de dados:
     * Métodos de lista (`insert`, `pop`, `items`, `keys`)
     * Transposição de dados
 
-## 📋 Exemplo de Estrutura de Dados
-
-O projeto utiliza o seguinte formato para representar imagens em baixa resolução:
-```python
-{
-  "titulo": "Sol",
-  "pixels": (
-    (255, 200, 0),
-    (255, 220, 50),
-    (200, 150, 0)
-  )
-}
-
-pip install matplotlib
-
-python criador_de_emojis.py
 
 ## 💻 Código do Projeto
 
