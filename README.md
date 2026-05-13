@@ -63,10 +63,10 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-- `/Algoritimo de Auditoria de Dados/`: | [Ver Projeto](./vendas-e-segurança/vendas_e_segurança.py/) | | [Ver RADME](./vendas-e-segurança/RADME.md/) |
+- `/Algoritimo de Auditoria de Dados/`: | [Ver Projeto](./vendas-e-segurança/vendas_e_segurança.py/) | | [Ver README](./vendas-e-segurança/RADME.md/) |
 
-- `/Engenharia de Contexto e Lógica Física/`: | [Ver Projeto](./conceitos-de-lista/conceitos_de_lista.py/) | | [Ver RADME](./conceitos-de-lista/RADME.md/) |
+- `/Engenharia de Contexto e Lógica Física/`: | [Ver Projeto](./conceitos-de-lista/conceitos_de_lista.py/) | | [Ver README](./conceitos-de-lista/RADME.md/) |
 
-- `/Criador de emojis/`: | [Ver Projeto](./criador-de-emojis/criador_de_emojis.py/) | | [Ver RADME](./criador-de-emojis/RADME.md/) |
+- `/Criador de emojis/`: | [Ver Projeto](./criador-de-emojis/criador_de_emojis.py/) | | [Ver README](./criador-de-emojis/RADME.md/) |
 
-- `/Traduzindo Lógica para Python/`: | [Ver Projeto](./funçoes/funçoes.py/) | | [Ver RADME](./funçoes/RADME.md/) |
+- `/Traduzindo Lógica para Python/`: | [Ver Projeto](./funçoes/funçoes.py/) | | [Ver README](./funçoes/RADME.md/) |
