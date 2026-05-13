@@ -75,4 +75,4 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 
 - Traduzindo Lógica para Python: | [Ver Projeto](./funçoes/funçoes.py/) | | [Ver README](./funçoes/RADME.md/) |
 
-- Sistema de Auditoria de Recursos Corporativos: | [Ver Projeto](./sistema_de_auditoria_de_recursos_corporativos/) | | [Ver README](./sistema_de_auditoria_de_recursos_corporativos/README.md/) |
+- Sistema de Auditoria de Recursos Corporativos: | [Ver Projeto](./sistema_de_auditoria_de_recursos_corporativos/sistema_de_auditoria_de_recursos_corporativos.py/) | | [Ver README](./sistema_de_auditoria_de_recursos_corporativos/README.md/) |
