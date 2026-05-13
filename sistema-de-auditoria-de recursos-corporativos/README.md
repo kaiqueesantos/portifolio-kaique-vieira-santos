@@ -42,7 +42,7 @@ Breve explicação de como o código foi organizado:
  
 ## 👤 Autor
  
-* **[Kaique Vieira Santos]**
+* **Kaique Vieira Santos**
 * LinkedIn: [https://www.linkedin.com/in/kaique-santos-ab70283b5/]
 * E-mail: [kaique207b@gmail.com]
  
