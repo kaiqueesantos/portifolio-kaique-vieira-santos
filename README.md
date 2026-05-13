@@ -60,7 +60,7 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
 
   | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Auditoria de Recursos Corporativos** | Criar um script em Python que calcule o orçamento total da empresa, mas com regras estritas de auditoria e flexibilidade de parâmetros. | [Ver Projeto](./sistema_de_auditoria_de_recursos_corporativos.py/) |
+| **Sistema de Auditoria de Recursos Corporativos** | Criar um script em Python que calcule o orçamento total da empresa, mas com regras estritas de auditoria e flexibilidade de parâmetros. | [Ver Projeto](./sistema_de_auditoria_de_recursos_corporativos/) |
  
 ---
  
