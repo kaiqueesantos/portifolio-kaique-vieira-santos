@@ -48,7 +48,7 @@ Atualmente cursando o 1º período de Ciência da computação  na Universidade 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Modularização** | Modularização | [Ver Projeto](.//) |
+| **Modularização** | Modularização | [Ver Projeto](./modularização/) |
 
 
 | Projeto | Descrição | Link |
